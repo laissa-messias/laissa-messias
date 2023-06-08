@@ -1,4 +1,4 @@
-## Oi, eu sou a Laissa.
+## Oi! Eu sou Laissa e sejam bem vindas(os).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laissa-messias&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laissa-messias&layout=compact&theme=dracula)
